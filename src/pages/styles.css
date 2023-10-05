@@ -1,0 +1,9 @@
+.landing-page {
+    background: url('../assets/images/bg.png');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+.overflow-y-scroll::-webkit-scrollbar {
+    display: none;
+}
