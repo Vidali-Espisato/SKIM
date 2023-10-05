@@ -29,9 +29,3 @@ function Card(props) {
 }
 
 export default Card
-
-
-{/* <Readonly<{
-        onSelectWallet(walletName: WalletName): void;
-        wallets: Wallet[];
-    }> | null> */}
